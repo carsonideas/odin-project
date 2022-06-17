@@ -1,2 +1,1 @@
-welcome to odin project and visual studio on linux ubuntu
-
+this project will enable me to test my learnt html basics by making a recipe website in html
